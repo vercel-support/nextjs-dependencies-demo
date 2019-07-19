@@ -1,7 +1,7 @@
 {
   "private": true,
   "dependencies": {
-    "cat-me": "^1.0.3",
+    "cat-me": "https://github.com/williamli/cat-me.git",
     "micro": "^9.3.4"
   }
 }
