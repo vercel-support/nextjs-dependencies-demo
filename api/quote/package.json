@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "forbes-quote": "^1.0.0",
+    "micro": "^9.3.4"
+  }
+}

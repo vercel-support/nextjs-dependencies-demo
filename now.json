@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "name": "nextjs-dependencies-demo",
+    "scope": "support-team",
+    "builds": [
+        { "src": "package.json", "use": "@now/next" },
+        { "src": "api/**/*.js", "use": "@now/node" }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "micro": "^9.3.4"
+  }
+}
