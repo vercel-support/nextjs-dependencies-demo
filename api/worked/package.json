@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "cat-me": "https://github.com/williamli/cat-me.git"
+  }
+}
