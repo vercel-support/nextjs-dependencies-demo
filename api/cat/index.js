@@ -1,6 +1,6 @@
 const {send} = require('micro');
-const catMe = require('cat-me')
+const asciiCats = require('ascii-cats')
 
 module.exports = (req, res) => {
-  return send(res, 200, catMe());
+  return send(res, 200, asciiCats());
 }
